@@ -20,6 +20,11 @@ A modern, feature-rich button library for SFML with grid layouts, animations, ic
 
 Requirement : 
 SFML
+
+Contacts :
+Email : rzm664477@gmail.com
+
+Discord : xxavi640 | https://discord.gg/MrQBUUNkGn
 Installation :
 
  Manual
@@ -27,7 +32,4 @@ Installation :
 git clone https://github.com/Gag91/SFML_Button_library.git
 # Copy include/bt_button.hpp and src/bt_button.cpp to your project
 
-Contact : rzm664477@gmail.com
-
-Discord : xxavi640 | https://discord.gg/MrQBUUNkGn
 
